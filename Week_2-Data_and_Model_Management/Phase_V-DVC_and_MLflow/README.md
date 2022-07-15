@@ -8,7 +8,6 @@
 # <h1 align="center" id="heading">Phase V - Data and Model Version Control using DVC and MLflow</h1>
 
 
-
 ## ☑️ Objectives
 At the end of this session, you will have a brief understanding of how to:
 - [ ] Track different different datasets
